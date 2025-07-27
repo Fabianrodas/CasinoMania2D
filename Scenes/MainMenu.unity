@@ -1365,6 +1365,7 @@ GameObject:
   - component: {fileID: 1837007403}
   - component: {fileID: 1837007402}
   - component: {fileID: 1837007405}
+  - component: {fileID: 1837007406}
   m_Layer: 5
   m_Name: PlayButton
   m_TagString: Untagged
@@ -1499,6 +1500,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pulseSpeed: 2
   pulseAmount: 0.05
+--- !u!114 &1837007406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1837007400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc831965de15930449ed821326800e90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleAmount: 2
+  scaleSpeed: 7
+  highlightColor: {r: 0.9294118, g: 0.5019608, b: 0.9686275, a: 1}
 --- !u!1 &1896270915
 GameObject:
   m_ObjectHideFlags: 0
@@ -1662,6 +1678,7 @@ GameObject:
   - component: {fileID: 1951034785}
   - component: {fileID: 1951034784}
   - component: {fileID: 1951034787}
+  - component: {fileID: 1951034788}
   m_Layer: 5
   m_Name: SettingsButton
   m_TagString: Untagged
@@ -1784,6 +1801,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pulseSpeed: 2
   pulseAmount: 0.05
+--- !u!114 &1951034788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1951034782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc831965de15930449ed821326800e90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleAmount: 2
+  scaleSpeed: 7
+  highlightColor: {r: 0.92941177, g: 0.5019608, b: 0.96862745, a: 1}
 --- !u!1 &2040340536
 GameObject:
   m_ObjectHideFlags: 0
