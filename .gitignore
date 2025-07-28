@@ -1,0 +1,29 @@
+# Archivos y carpetas generados por Unity que no se deben trackear
+[Libraries and builds]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Archivos temporales del sistema operativo o herramientas
+.DS_Store
+*.apk
+*.exe
+*.mp4
+*.psd
+
+# Configuración de IDEs
+.vscode/
+*.sln
+*.csproj
+
+# Otros
+MemoryCaptures/
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
