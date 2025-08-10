@@ -42,7 +42,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _EnableExternalAlpha: 0
-    - _ShineOffset: -0.991265
+    - _ShineOffset: 0.7251879
     - _ShineWidth: 0.2
     - _ZWrite: 0
     m_Colors:
