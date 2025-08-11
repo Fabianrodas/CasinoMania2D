@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: af9744d9546adfb43943256db556a497
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7627859260497117678
+    second: Par e Impar_0
+  - first:
+      213: -4301093730564959827
+    second: Par e Impar_1
+  - first:
+      213: -6502344264390223622
+    second: Par e Impar_2
+  - first:
+      213: 571840254575040606
+    second: Par e Impar_3
+  - first:
+      213: 6133607446944576802
+    second: Par e Impar_4
+  - first:
+      213: 5980381287979820595
+    second: Par e Impar_5
+  - first:
+      213: -4945801671209365522
+    second: Par e Impar_6
+  - first:
+      213: -1286214972074478250
+    second: Par e Impar_7
+  - first:
+      213: 1843038395425032205
+    second: Par e Impar_8
+  - first:
+      213: -6957755324826490641
+    second: Par e Impar_9
+  - first:
+      213: -3095326568866603987
+    second: Par e Impar_10
+  - first:
+      213: -6719905302639502016
+    second: Par e Impar_11
+  - first:
+      213: 4160335336722002306
+    second: Par e Impar_12
+  - first:
+      213: -7682005353108576886
+    second: Par e Impar_13
+  - first:
+      213: -7582964338027805153
+    second: Par e Impar_14
+  - first:
+      213: -2371173446928734182
+    second: Par e Impar_15
+  - first:
+      213: 2794027480383056196
+    second: Par e Impar_16
+  - first:
+      213: -3596780974666313089
+    second: Par e Impar_17
+  - first:
+      213: -6684726411246242148
+    second: Par e Impar_18
+  - first:
+      213: 1666626053499783415
+    second: Par e Impar_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Par e Impar_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3626
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1ca9255999bd960800000000000000
+      internalID: 7627859260497117678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3520
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1140c4a027f44c0800000000000000
+      internalID: -4301093730564959827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3447
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d8b9a75803c5a0800000000000000
+      internalID: -6502344264390223622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3348
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d63a8ea59fe700800000000000000
+      internalID: 571840254575040606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3259
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22572dac973fe1550800000000000000
+      internalID: 6133607446944576802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2954
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362e6398159ef250800000000000000
+      internalID: 5980381287979820595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2857
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef4802859bfc5bb0800000000000000
+      internalID: -4945801671209365522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2792
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65536bc2c42762ee0800000000000000
+      internalID: -1286214972074478250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2687
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0807b2e7a9c39910800000000000000
+      internalID: 1843038395425032205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2016
+        width: 262
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe862a55566117f90800000000000000
+      internalID: -6957755324826490641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1394
+        width: 262
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c90e6a2e03b05d0800000000000000
+      internalID: -3095326568866603987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1034
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d98e71bb91eb2a0800000000000000
+      internalID: -6719905302639502016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 938
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281f1d342fa7cb930800000000000000
+      internalID: 4160335336722002306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 842
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85605515d8046590800000000000000
+      internalID: -7682005353108576886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 556
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16c56f5c16e3c690800000000000000
+      internalID: -7582964338027805153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 468
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1869f22056e71fd0800000000000000
+      internalID: -2371173446928734182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 374
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44969e4a03166c620800000000000000
+      internalID: 2794027480383056196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 300
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72912692caa51ec0800000000000000
+      internalID: -3596780974666313089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 190
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96fef40fb41b33a0800000000000000
+      internalID: -6684726411246242148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 112
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f80444c09b012710800000000000000
+      internalID: 1666626053499783415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Par e Impar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 3792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942d8028a20f9d4cb722fdfc08c30b1
+      internalID: -450914807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aa2d5831f18243142a708e9a796687f5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Par e Impar_0: 7627859260497117678
+      Par e Impar_1: -4301093730564959827
+      Par e Impar_10: -3095326568866603987
+      Par e Impar_11: -6719905302639502016
+      Par e Impar_12: 4160335336722002306
+      Par e Impar_13: -7682005353108576886
+      Par e Impar_14: -7582964338027805153
+      Par e Impar_15: -2371173446928734182
+      Par e Impar_16: 2794027480383056196
+      Par e Impar_17: -3596780974666313089
+      Par e Impar_18: -6684726411246242148
+      Par e Impar_19: 1666626053499783415
+      Par e Impar_2: -6502344264390223622
+      Par e Impar_20: -450914807
+      Par e Impar_3: 571840254575040606
+      Par e Impar_4: 6133607446944576802
+      Par e Impar_5: 5980381287979820595
+      Par e Impar_6: -4945801671209365522
+      Par e Impar_7: -1286214972074478250
+      Par e Impar_8: 1843038395425032205
+      Par e Impar_9: -6957755324826490641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

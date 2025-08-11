@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: 1543b8cf35e8a364cbfffe93b126a5ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3599813811239957914
+    second: Roullete_Mesa de trabajo 1_0
+  - first:
+      213: -606339745384937877
+    second: Roullete_Mesa de trabajo 1_1
+  - first:
+      213: -2371647058786703119
+    second: Roullete_Mesa de trabajo 1_2
+  - first:
+      213: -3710785716561136899
+    second: Roullete_Mesa de trabajo 1_3
+  - first:
+      213: -3109020606738240923
+    second: Roullete_Mesa de trabajo 1_4
+  - first:
+      213: -6029775667325600139
+    second: Roullete_Mesa de trabajo 1_5
+  - first:
+      213: 768114795812384735
+    second: Roullete_Mesa de trabajo 1_6
+  - first:
+      213: 6629373860610501254
+    second: Roullete_Mesa de trabajo 1_7
+  - first:
+      213: 4969446344417456417
+    second: Roullete_Mesa de trabajo 1_8
+  - first:
+      213: -9059154543051502786
+    second: Roullete_Mesa de trabajo 1_9
+  - first:
+      213: 1190762320817915036
+    second: Roullete_Mesa de trabajo 1_10
+  - first:
+      213: 7248029585197067437
+    second: Roullete_Mesa de trabajo 1_11
+  - first:
+      213: 6060969076455850271
+    second: Roullete_Mesa de trabajo 1_12
+  - first:
+      213: 2515150550187997483
+    second: Roullete_Mesa de trabajo 1_13
+  - first:
+      213: -8804006005083979614
+    second: Roullete_Mesa de trabajo 1_14
+  - first:
+      213: 281046436007190519
+    second: Roullete_Mesa de trabajo 1_15
+  - first:
+      213: 2884854260469302306
+    second: Roullete_Mesa de trabajo 1_16
+  - first:
+      213: -638941796031323071
+    second: Roullete_Mesa de trabajo 1_17
+  - first:
+      213: 1458103127219344349
+    second: Roullete_Mesa de trabajo 1_18
+  - first:
+      213: -2968939450356270325
+    second: Roullete_Mesa de trabajo 1_19
+  - first:
+      213: 4325132731423548499
+    second: Roullete_Mesa de trabajo 1_20
+  - first:
+      213: 7308817428026106716
+    second: Roullete_Mesa de trabajo 1_21
+  - first:
+      213: -1952860715226097519
+    second: Roullete_Mesa de trabajo 1_22
+  - first:
+      213: 4646173369386076459
+    second: Roullete_Mesa de trabajo 1_23
+  - first:
+      213: -610803752464067536
+    second: Roullete_Mesa de trabajo 1_24
+  - first:
+      213: -7274506485097547009
+    second: Roullete_Mesa de trabajo 1_25
+  - first:
+      213: -106508352797986861
+    second: Roullete_Mesa de trabajo 1_26
+  - first:
+      213: 108027317396476506
+    second: Roullete_Mesa de trabajo 1_27
+  - first:
+      213: -2527074910825780329
+    second: Roullete_Mesa de trabajo 1_28
+  - first:
+      213: 5997464600327957881
+    second: Roullete_Mesa de trabajo 1_29
+  - first:
+      213: -705840956703647427
+    second: Roullete_Mesa de trabajo 1_30
+  - first:
+      213: 6279282389433818928
+    second: Roullete_Mesa de trabajo 1_31
+  - first:
+      213: -964601200260880186
+    second: Roullete_Mesa de trabajo 1_32
+  - first:
+      213: 5187227807321931848
+    second: Roullete_Mesa de trabajo 1_33
+  - first:
+      213: -1229662369865335387
+    second: Roullete_Mesa de trabajo 1_34
+  - first:
+      213: -1037702977950897359
+    second: Roullete_Mesa de trabajo 1_35
+  - first:
+      213: 5153185843569155185
+    second: Roullete_Mesa de trabajo 1_36
+  - first:
+      213: -6417935296208270723
+    second: Roullete_Mesa de trabajo 1_37
+  - first:
+      213: -5698359495220313062
+    second: Roullete_Mesa de trabajo 1_38
+  - first:
+      213: 4530714026599699244
+    second: Roullete_Mesa de trabajo 1_39
+  - first:
+      213: -2636070439324244205
+    second: Roullete_Mesa de trabajo 1_40
+  - first:
+      213: -4370212408073607218
+    second: Roullete_Mesa de trabajo 1_41
+  - first:
+      213: 5537065234834770296
+    second: Roullete_Mesa de trabajo 1_42
+  - first:
+      213: 761540612673608389
+    second: Roullete_Mesa de trabajo 1_43
+  - first:
+      213: 8685882479122993890
+    second: Roullete_Mesa de trabajo 1_44
+  - first:
+      213: 8248232928180456579
+    second: Roullete_Mesa de trabajo 1_45
+  - first:
+      213: -5784464808801963746
+    second: Roullete_Mesa de trabajo 1_46
+  - first:
+      213: 4710879363801817400
+    second: Roullete_Mesa de trabajo 1_47
+  - first:
+      213: -4015065971880373318
+    second: Roullete_Mesa de trabajo 1_48
+  - first:
+      213: 3978638858246718705
+    second: Roullete_Mesa de trabajo 1_49
+  - first:
+      213: -8735578052288585234
+    second: Roullete_Mesa de trabajo 1_50
+  - first:
+      213: -2923503472799510071
+    second: Roullete_Mesa de trabajo 1_51
+  - first:
+      213: -6295903439193223693
+    second: Roullete_Mesa de trabajo 1_52
+  - first:
+      213: -6958810964540192311
+    second: Roullete_Mesa de trabajo 1_53
+  - first:
+      213: -5018306150376409790
+    second: Roullete_Mesa de trabajo 1_54
+  - first:
+      213: -241838880416990423
+    second: Roullete_Mesa de trabajo 1_55
+  - first:
+      213: -5230692566023331658
+    second: Roullete_Mesa de trabajo 1_56
+  - first:
+      213: 7217363668902957024
+    second: Roullete_Mesa de trabajo 1_57
+  - first:
+      213: 2499064500365580356
+    second: Roullete_Mesa de trabajo 1_58
+  - first:
+      213: 8389332094470415537
+    second: Roullete_Mesa de trabajo 1_59
+  - first:
+      213: -2284567081374511977
+    second: Roullete_Mesa de trabajo 1_60
+  - first:
+      213: 398158181799910102
+    second: Roullete_Mesa de trabajo 1_61
+  - first:
+      213: 7275425966905854442
+    second: Roullete_Mesa de trabajo 1_62
+  - first:
+      213: -8114130645033148796
+    second: Roullete_Mesa de trabajo 1_63
+  - first:
+      213: 7315899287055181095
+    second: Roullete_Mesa de trabajo 1_64
+  - first:
+      213: 2213413050551675773
+    second: Roullete_Mesa de trabajo 1_65
+  - first:
+      213: -1625007225041678040
+    second: Roullete_Mesa de trabajo 1_66
+  - first:
+      213: 4154486579179112172
+    second: Roullete_Mesa de trabajo 1_67
+  - first:
+      213: 8756091136888485505
+    second: Roullete_Mesa de trabajo 1_68
+  - first:
+      213: -7622163094618221142
+    second: Roullete_Mesa de trabajo 1_69
+  - first:
+      213: 7961436215478866675
+    second: Roullete_Mesa de trabajo 1_70
+  - first:
+      213: -938274216486017929
+    second: Roullete_Mesa de trabajo 1_71
+  - first:
+      213: -8933850748112840924
+    second: Roullete_Mesa de trabajo 1_72
+  - first:
+      213: 7850500646551055817
+    second: Roullete_Mesa de trabajo 1_73
+  - first:
+      213: 3321001437870880790
+    second: Roullete_Mesa de trabajo 1_74
+  - first:
+      213: -920940623348071199
+    second: Roullete_Mesa de trabajo 1_75
+  - first:
+      213: 786673272139181055
+    second: Roullete_Mesa de trabajo 1_76
+  - first:
+      213: -7588354162986430772
+    second: Roullete_Mesa de trabajo 1_77
+  - first:
+      213: 5722483310606716172
+    second: Roullete_Mesa de trabajo 1_78
+  - first:
+      213: -2301481069564723105
+    second: Roullete_Mesa de trabajo 1_79
+  - first:
+      213: -8947428963015734601
+    second: Roullete_Mesa de trabajo 1_80
+  - first:
+      213: 1884717779432110504
+    second: Roullete_Mesa de trabajo 1_81
+  - first:
+      213: -4128406924565057995
+    second: Roullete_Mesa de trabajo 1_82
+  - first:
+      213: 1771813710244983501
+    second: Roullete_Mesa de trabajo 1_83
+  - first:
+      213: -2766052675823376454
+    second: Roullete_Mesa de trabajo 1_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_0
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 4147
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4f7b4964ea0ec0800000000000000
+      internalID: -3599813811239957914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3856
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66412fc639d597f0800000000000000
+      internalID: -606339745384937877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_2
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3722
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82b68c097361fd0800000000000000
+      internalID: -2371647058786703119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_3
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 3722
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b7c62d04a08cc0800000000000000
+      internalID: -3710785716561136899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_4
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 3722
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a6ffffa3a8ad4d0800000000000000
+      internalID: -3109020606738240923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_5
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 145
+        width: 1694
+        height: 3976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e73c94afee15ca0800000000000000
+      internalID: -6029775667325600139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3750
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf6e1f4654e8aa00800000000000000
+      internalID: 768114795812384735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3677
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae2fcf664400c50800000000000000
+      internalID: 6629373860610501254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3411
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121bd59fe1507f440800000000000000
+      internalID: 4969446344417456417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_9
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 3411
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b8c08c0fa674280800000000000000
+      internalID: -9059154543051502786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_10
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 3411
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9485489500768010800000000000000
+      internalID: 1190762320817915036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3578
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac613b818c269460800000000000000
+      internalID: 7248029585197067437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3546
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1147cc3343ec1450800000000000000
+      internalID: 6060969076455850271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3489
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29759c791c97e220800000000000000
+      internalID: 2515150550187997483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3435
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0409a1f23e1d580800000000000000
+      internalID: -8804006005083979614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3372
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff19979e3a76e300800000000000000
+      internalID: 281046436007190519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3268
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2248b005aaf090820800000000000000
+      internalID: 2884854260469302306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_17
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3100
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144276f52d50227f0800000000000000
+      internalID: -638941796031323071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_18
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 3100
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd39bcf91193c3410800000000000000
+      internalID: 1458103127219344349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_19
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 3100
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bfeddcc453cc6d0800000000000000
+      internalID: -2968939450356270325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3184
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3546aeebd45f50c30800000000000000
+      internalID: 4325132731423548499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3174
+        width: 105
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c532ead1ab22e6560800000000000000
+      internalID: 7308817428026106716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3087
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1981225b68b06e4e0800000000000000
+      internalID: -1952860715226097519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3022
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29032f10168a7040800000000000000
+      internalID: 4646173369386076459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_24
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2789
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03457ea293df587f0800000000000000
+      internalID: -610803752464067536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_25
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2789
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa3c7fc4e2cb0b90800000000000000
+      internalID: -7274506485097547009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_26
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 2789
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df2dd9a73b958ef0800000000000000
+      internalID: -106508352797986861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2917
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529477d54acf7100800000000000000
+      internalID: 108027317396476506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2246
+        width: 262
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b6d63f1c60eecd0800000000000000
+      internalID: -2527074910825780329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_29
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2479
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d278f27464b3350800000000000000
+      internalID: 5997464600327957881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_30
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2479
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39d1cbb3695436f0800000000000000
+      internalID: -705840956703647427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_31
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 2479
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f919a601e742750800000000000000
+      internalID: 6279282389433818928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2310
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e88ca15c0d92f0800000000000000
+      internalID: -964601200260880186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_33
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2168
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c378253cbcf740800000000000000
+      internalID: 5187227807321931848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_34
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2168
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adf282f69c5feee0800000000000000
+      internalID: -1229662369865335387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_35
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 2168
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b2fd8b3a65991f0800000000000000
+      internalID: -1037702977950897359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2189
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cd283d83bc38740800000000000000
+      internalID: 5153185843569155185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2109
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a801e0ad9eee6a0800000000000000
+      internalID: -6417935296208270723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_38
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1857
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144be4fa3c5be0b0800000000000000
+      internalID: -5698359495220313062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_39
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1857
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23da56076450ee30800000000000000
+      internalID: 4530714026599699244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_40
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1857
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317ab25e6ebca6bd0800000000000000
+      internalID: -2636070439324244205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1624
+        width: 262
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a4cf18f2e953c0800000000000000
+      internalID: -4370212408073607218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2003
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879cd749e7b97dc40800000000000000
+      internalID: 5537065234834770296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1908
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca91740729819a00800000000000000
+      internalID: 761540612673608389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_44
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1546
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e25ae058147a8870800000000000000
+      internalID: 8685882479122993890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_45
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1546
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c40eca52c977270800000000000000
+      internalID: 8248232928180456579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_46
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1546
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e117c9f57e379bfa0800000000000000
+      internalID: -5784464808801963746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1264
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831202372d7606140800000000000000
+      internalID: 4710879363801817400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_48
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1235
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3df4475ce9748c0800000000000000
+      internalID: -4015065971880373318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_49
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1235
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48c5b36f6f63730800000000000000
+      internalID: 3978638858246718705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_50
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1235
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1e3a56b0ef4c680800000000000000
+      internalID: -8735578052288585234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1168
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c11a24b411ad67d0800000000000000
+      internalID: -2923503472799510071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_52
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 925
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd4abedd2570a8a0800000000000000
+      internalID: -6295903439193223693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_53
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 925
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c90d7f0c465d6f90800000000000000
+      internalID: -6958810964540192311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_54
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 925
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245f7a4f4256b5ab0800000000000000
+      internalID: -5018306150376409790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1072
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bfddfc1d0d4acf0800000000000000
+      internalID: -241838880416990423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1060
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b027e813d8d867b0800000000000000
+      internalID: -5230692566023331658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_57
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 945
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef45c3840a392460800000000000000
+      internalID: 7217363668902957024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_58
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 875
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44854172ce57ea220800000000000000
+      internalID: 2499064500365580356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_59
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 614
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b461b16715ec6470800000000000000
+      internalID: 8389332094470415537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_60
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 614
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c0f19f7569b40e0800000000000000
+      internalID: -2284567081374511977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_61
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 614
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da599eb1ca868500800000000000000
+      internalID: 398158181799910102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_62
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 786
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9831bbe5187f460800000000000000
+      internalID: 7275425966905854442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_63
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 768
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e10b93b21d46f80800000000000000
+      internalID: -8114130645033148796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 698
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7252579e3ab478560800000000000000
+      internalID: 7315899287055181095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_65
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 674
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ba85b317f97be10800000000000000
+      internalID: 2213413050551675773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 604
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82192f9d980d279e0800000000000000
+      internalID: -1625007225041678040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_67
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 531
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce649184883b7a930800000000000000
+      internalID: 4154486579179112172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_68
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 303
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1863f2b4f72e38970800000000000000
+      internalID: 8756091136888485505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_69
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 303
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa55035ac03a83690800000000000000
+      internalID: -7622163094618221142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_70
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 303
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f25c857e04bc7e60800000000000000
+      internalID: 7961436215478866675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774617042949af2f0800000000000000
+      internalID: -938274216486017929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 343
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42750620416940480800000000000000
+      internalID: -8933850748112840924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_73
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 111
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd66aa8eb492fc60800000000000000
+      internalID: 7850500646551055817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_74
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 95
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618fada5631961e20800000000000000
+      internalID: 3321001437870880790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_75
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 131
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e48c16e1692833f0800000000000000
+      internalID: -920940623348071199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_76
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 104
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb662c4c23daea00800000000000000
+      internalID: 786673272139181055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_77
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 111
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce4655f710c0b690800000000000000
+      internalID: -7588354162986430772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_78
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 131
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d80d180485a6f40800000000000000
+      internalID: 5722483310606716172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_79
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 95
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f500f47392f7f00e0800000000000000
+      internalID: -2301481069564723105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_80
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 104
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bac76e73c854d380800000000000000
+      internalID: -8947428963015734601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_81
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 111
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9f9e0b5dcd72a10800000000000000
+      internalID: 1884717779432110504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_82
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 131
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e690d76c3f4b6c0800000000000000
+      internalID: -4128406924565057995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_83
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 95
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2b1579e2fb69810800000000000000
+      internalID: 1771813710244983501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roullete_Mesa de trabajo 1_84
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 104
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7678b1fb10d99d0800000000000000
+      internalID: -2766052675823376454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Roullete_Mesa de trabajo 1_0: -3599813811239957914
+      Roullete_Mesa de trabajo 1_1: -606339745384937877
+      Roullete_Mesa de trabajo 1_10: 1190762320817915036
+      Roullete_Mesa de trabajo 1_11: 7248029585197067437
+      Roullete_Mesa de trabajo 1_12: 6060969076455850271
+      Roullete_Mesa de trabajo 1_13: 2515150550187997483
+      Roullete_Mesa de trabajo 1_14: -8804006005083979614
+      Roullete_Mesa de trabajo 1_15: 281046436007190519
+      Roullete_Mesa de trabajo 1_16: 2884854260469302306
+      Roullete_Mesa de trabajo 1_17: -638941796031323071
+      Roullete_Mesa de trabajo 1_18: 1458103127219344349
+      Roullete_Mesa de trabajo 1_19: -2968939450356270325
+      Roullete_Mesa de trabajo 1_2: -2371647058786703119
+      Roullete_Mesa de trabajo 1_20: 4325132731423548499
+      Roullete_Mesa de trabajo 1_21: 7308817428026106716
+      Roullete_Mesa de trabajo 1_22: -1952860715226097519
+      Roullete_Mesa de trabajo 1_23: 4646173369386076459
+      Roullete_Mesa de trabajo 1_24: -610803752464067536
+      Roullete_Mesa de trabajo 1_25: -7274506485097547009
+      Roullete_Mesa de trabajo 1_26: -106508352797986861
+      Roullete_Mesa de trabajo 1_27: 108027317396476506
+      Roullete_Mesa de trabajo 1_28: -2527074910825780329
+      Roullete_Mesa de trabajo 1_29: 5997464600327957881
+      Roullete_Mesa de trabajo 1_3: -3710785716561136899
+      Roullete_Mesa de trabajo 1_30: -705840956703647427
+      Roullete_Mesa de trabajo 1_31: 6279282389433818928
+      Roullete_Mesa de trabajo 1_32: -964601200260880186
+      Roullete_Mesa de trabajo 1_33: 5187227807321931848
+      Roullete_Mesa de trabajo 1_34: -1229662369865335387
+      Roullete_Mesa de trabajo 1_35: -1037702977950897359
+      Roullete_Mesa de trabajo 1_36: 5153185843569155185
+      Roullete_Mesa de trabajo 1_37: -6417935296208270723
+      Roullete_Mesa de trabajo 1_38: -5698359495220313062
+      Roullete_Mesa de trabajo 1_39: 4530714026599699244
+      Roullete_Mesa de trabajo 1_4: -3109020606738240923
+      Roullete_Mesa de trabajo 1_40: -2636070439324244205
+      Roullete_Mesa de trabajo 1_41: -4370212408073607218
+      Roullete_Mesa de trabajo 1_42: 5537065234834770296
+      Roullete_Mesa de trabajo 1_43: 761540612673608389
+      Roullete_Mesa de trabajo 1_44: 8685882479122993890
+      Roullete_Mesa de trabajo 1_45: 8248232928180456579
+      Roullete_Mesa de trabajo 1_46: -5784464808801963746
+      Roullete_Mesa de trabajo 1_47: 4710879363801817400
+      Roullete_Mesa de trabajo 1_48: -4015065971880373318
+      Roullete_Mesa de trabajo 1_49: 3978638858246718705
+      Roullete_Mesa de trabajo 1_5: -6029775667325600139
+      Roullete_Mesa de trabajo 1_50: -8735578052288585234
+      Roullete_Mesa de trabajo 1_51: -2923503472799510071
+      Roullete_Mesa de trabajo 1_52: -6295903439193223693
+      Roullete_Mesa de trabajo 1_53: -6958810964540192311
+      Roullete_Mesa de trabajo 1_54: -5018306150376409790
+      Roullete_Mesa de trabajo 1_55: -241838880416990423
+      Roullete_Mesa de trabajo 1_56: -5230692566023331658
+      Roullete_Mesa de trabajo 1_57: 7217363668902957024
+      Roullete_Mesa de trabajo 1_58: 2499064500365580356
+      Roullete_Mesa de trabajo 1_59: 8389332094470415537
+      Roullete_Mesa de trabajo 1_6: 768114795812384735
+      Roullete_Mesa de trabajo 1_60: -2284567081374511977
+      Roullete_Mesa de trabajo 1_61: 398158181799910102
+      Roullete_Mesa de trabajo 1_62: 7275425966905854442
+      Roullete_Mesa de trabajo 1_63: -8114130645033148796
+      Roullete_Mesa de trabajo 1_64: 7315899287055181095
+      Roullete_Mesa de trabajo 1_65: 2213413050551675773
+      Roullete_Mesa de trabajo 1_66: -1625007225041678040
+      Roullete_Mesa de trabajo 1_67: 4154486579179112172
+      Roullete_Mesa de trabajo 1_68: 8756091136888485505
+      Roullete_Mesa de trabajo 1_69: -7622163094618221142
+      Roullete_Mesa de trabajo 1_7: 6629373860610501254
+      Roullete_Mesa de trabajo 1_70: 7961436215478866675
+      Roullete_Mesa de trabajo 1_71: -938274216486017929
+      Roullete_Mesa de trabajo 1_72: -8933850748112840924
+      Roullete_Mesa de trabajo 1_73: 7850500646551055817
+      Roullete_Mesa de trabajo 1_74: 3321001437870880790
+      Roullete_Mesa de trabajo 1_75: -920940623348071199
+      Roullete_Mesa de trabajo 1_76: 786673272139181055
+      Roullete_Mesa de trabajo 1_77: -7588354162986430772
+      Roullete_Mesa de trabajo 1_78: 5722483310606716172
+      Roullete_Mesa de trabajo 1_79: -2301481069564723105
+      Roullete_Mesa de trabajo 1_8: 4969446344417456417
+      Roullete_Mesa de trabajo 1_80: -8947428963015734601
+      Roullete_Mesa de trabajo 1_81: 1884717779432110504
+      Roullete_Mesa de trabajo 1_82: -4128406924565057995
+      Roullete_Mesa de trabajo 1_83: 1771813710244983501
+      Roullete_Mesa de trabajo 1_84: -2766052675823376454
+      Roullete_Mesa de trabajo 1_9: -9059154543051502786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
