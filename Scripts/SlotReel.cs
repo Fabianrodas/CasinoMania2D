@@ -1,10 +1,13 @@
 using UnityEngine;
+using System;
+using Random = UnityEngine.Random;
 
 public class SlotReel : MonoBehaviour
 {
     [Header("References")]
     public Transform content;
     public GameObject[] symbolPrefabs;
+    public Transform paylineRef;
 
     [Header("Reel Settings")]
     public int visibleSymbols = 3;
@@ -19,6 +22,10 @@ public class SlotReel : MonoBehaviour
     private bool spinning = false;
     private float timer = 0f;
 
+    // >>> NUEVO: evento al detenerse y propiedad de lectura
+    public event Action<SlotReel, Sprite> OnStopped; 
+    public bool IsSpinning => spinning;
+
     void Start()
     {
         totalSymbols = visibleSymbols + bufferSymbols;
@@ -27,7 +34,6 @@ public class SlotReel : MonoBehaviour
 
     void InitSymbols()
     {
-        // Limpiar hijos previos
         foreach (Transform child in content)
             Destroy(child.gameObject);
 
@@ -41,7 +47,6 @@ public class SlotReel : MonoBehaviour
             SpriteRenderer sr = symbol.GetComponent<SpriteRenderer>();
             if (i == 0) symbolHeight = sr.bounds.size.y + symbolSpacing;
 
-            // Posición exacta según índice
             symbol.transform.localPosition = new Vector3(0, -i * symbolHeight, 0);
             symbols[i] = symbol.transform;
         }
@@ -55,16 +60,16 @@ public class SlotReel : MonoBehaviour
         {
             symbols[i].localPosition += Vector3.down * speed * Time.deltaTime;
 
-            // Si el símbolo sale del área visible + buffer
             if (symbols[i].localPosition.y < -symbolHeight * (totalSymbols - 1))
             {
-                // Reposicionar exacto arriba del símbolo más alto
                 float highestY = GetHighestSymbolY();
                 symbols[i].localPosition = new Vector3(0, highestY + symbolHeight, 0);
 
-                // Asignar sprite aleatorio
+                // reasignar sprite aleatorio desde tus prefabs
                 int randomIndex = Random.Range(0, symbolPrefabs.Length);
-                symbols[i].GetComponent<SpriteRenderer>().sprite = symbolPrefabs[randomIndex].GetComponent<SpriteRenderer>().sprite;
+                var srTo = symbols[i].GetComponent<SpriteRenderer>();
+                var srFrom = symbolPrefabs[randomIndex].GetComponent<SpriteRenderer>();
+                srTo.sprite = srFrom.sprite;
             }
         }
 
@@ -74,6 +79,10 @@ public class SlotReel : MonoBehaviour
             spinning = false;
             timer = 0f;
             SnapToGrid();
+
+            // >>> NUEVO: avisar resultado
+            Sprite center = GetCenterSprite();
+            OnStopped?.Invoke(this, center);
         }
     }
 
@@ -95,6 +104,34 @@ public class SlotReel : MonoBehaviour
         }
     }
 
+    Sprite GetCenterSprite()
+    {
+        // Si hay paylineRef, usamos su Y en el espacio local de 'content'
+        float targetY;
+        if (paylineRef != null)
+            targetY = content.InverseTransformPoint(paylineRef.position).y;
+        else
+        {
+            // Fallback al cálculo teórico (para 3 visibles, el centro es -1*h)
+            targetY = -symbolHeight * (visibleSymbols / 2);
+        }
+
+        Transform closest = null;
+        float best = float.MaxValue;
+
+        for (int i = 0; i < symbols.Length; i++)
+        {
+            float d = Mathf.Abs(symbols[i].localPosition.y - targetY);
+            if (d < best)
+            {
+                best = d;
+                closest = symbols[i];
+            }
+        }
+
+        return closest.GetComponent<SpriteRenderer>().sprite;
+    }
+    
     public void Spin()
     {
         spinning = true;

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9977c8654e4f20e428e568103a95252c
+guid: 9a0dd8e324489ef4eab9f15f727f9306
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5927170880052913089
-    second: silvercoin-4_0
+      213: -6951702451277323124
+    second: btnExit_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: silvercoin-4_0
+      name: btnExit_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 31
-        width: 94
-        height: 11
+        x: 10
+        y: 9
+        width: 368
+        height: 363
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c3e79c038a814250800000000000000
-      internalID: 5927170880052913089
+      spriteID: c842767c377968f90800000000000000
+      internalID: -6951702451277323124
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      silvercoin-4_0: 5927170880052913089
+      btnExit_0: -6951702451277323124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b4afee59ff91a7c41b0b82638e559bb2
+guid: 52282463743bf824b9f095cf7d3d3e96
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7703103649198410685
-    second: silvercoin-2_0
+      213: 7483414797661880523
+    second: notaMusical_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: silvercoin-2_0
+      name: notaMusical_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 0
-        width: 74
-        height: 79
+        x: 5
+        y: 10
+        width: 191
+        height: 205
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34473893b04191590800000000000000
-      internalID: -7703103649198410685
+      spriteID: bc0c9811c1e6ad760800000000000000
+      internalID: 7483414797661880523
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      silvercoin-2_0: -7703103649198410685
+      notaMusical_0: 7483414797661880523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

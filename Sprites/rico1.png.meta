@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: a4ca930b08873e04da024c20965b1b25
+guid: 9be1bdccdbe963b4c978b19f96253c33
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6759678176418064572
-    second: btnSettings_0
+      213: 7679586819197573355
+    second: rico1_0
+  - first:
+      213: 4217934415767544431
+    second: rico1_1
+  - first:
+      213: 9037761950191818284
+    second: rico1_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +119,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: btnSettings_0
+      name: rico1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 106
-        height: 43
+        x: 408
+        y: 343
+        width: 34
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44714aa438cc032a0800000000000000
-      internalID: -6759678176418064572
+      spriteID: be81b0c168f539a60800000000000000
+      internalID: 7679586819197573355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rico1_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 331
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6228b9e00d198a30800000000000000
+      internalID: 4217934415767544431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rico1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 612
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2699bd0c949c6d70800000000000000
+      internalID: 9037761950191818284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rico1_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 608
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36400d2f473e4964f84c08417d53e1f5
+      internalID: -1533788241
       vertices: []
       indices: 
       edges: []
@@ -138,7 +210,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6298e63b67d1e4444b9755730087e055
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +220,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      btnSettings_0: -6759678176418064572
+      rico1_0: 7679586819197573355
+      rico1_1: 4217934415767544431
+      rico1_2: 9037761950191818284
+      rico1_3: -1533788241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

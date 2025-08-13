@@ -116,10 +116,10 @@ TextureImporter:
       name: btnPlay_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 106
-        height: 43
+        x: 8
+        y: 6
+        width: 598
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

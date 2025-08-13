@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: d67ca5bc11f4bdc4cb03e7a05ed64f1e
+guid: 04a5c831020ad454698cd2f7feee0188
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2218136010918068860
-    second: closeEye_0
+      213: -542959946206321217
+    second: pobre2_0
+  - first:
+      213: -951192626128395262
+    second: pobre2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: closeEye_0
+      name: pobre2_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 49
-        width: 460
-        height: 371
+        x: 1
+        y: 0
+        width: 164
+        height: 220
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48df9bddc099731e0800000000000000
-      internalID: -2218136010918068860
+      spriteID: fb56b1f3ec40778f0800000000000000
+      internalID: -542959946206321217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobre2_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 422
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20465ae985facc2f0800000000000000
+      internalID: -951192626128395262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pobre2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 545
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b47510fb6f82f41866713687406ec7
+      internalID: -908301588
       vertices: []
       indices: 
       edges: []
@@ -138,7 +185,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7ad0ef6ec9311b84a933606604e88750
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +195,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      closeEye_0: -2218136010918068860
+      pobre2_0: -542959946206321217
+      pobre2_1: -951192626128395262
+      pobre2_2: -908301588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
