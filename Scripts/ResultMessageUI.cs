@@ -50,4 +50,33 @@ public class ResultMessageUI : MonoBehaviour
         StopAllCoroutines();
         StartCoroutine(ShowRoutine());
     }
+
+    TMPro.TextMeshProUGUI _simpleLabel;
+    GameObject _simpleRoot;
+    Coroutine _simpleCo;
+
+    public void ShowSimple(string msg, float seconds = 1.5f)
+    {
+        // fallback: usa el propio GO como root y busca un TMP hijo
+        if (_simpleRoot == null) _simpleRoot = gameObject;
+        if (_simpleLabel == null) _simpleLabel = GetComponentInChildren<TMPro.TextMeshProUGUI>(true);
+
+        if (_simpleLabel == null)
+        {
+            Debug.LogWarning("[ResultMessageUI] No encontré un TextMeshProUGUI para ShowSimple.");
+            return;
+        }
+
+        _simpleLabel.text = msg;
+        _simpleRoot.SetActive(true);
+
+        if (_simpleCo != null) StopCoroutine(_simpleCo);
+        _simpleCo = StartCoroutine(HideSimple(seconds));
+    }
+
+    System.Collections.IEnumerator HideSimple(float s)
+    {
+        yield return new WaitForSeconds(s);
+        if (_simpleRoot) _simpleRoot.SetActive(false);
+    }
 }

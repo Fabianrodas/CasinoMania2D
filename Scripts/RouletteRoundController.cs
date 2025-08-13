@@ -43,6 +43,10 @@ namespace CasinoMania2D.Roulette
         [SerializeField] private bool isSpinning = false;
         [SerializeField] private int lastWinningNumber = -1;
 
+        [SerializeField] private string insufficientFundsMsg = "Saldo insuficiente";
+        private bool isPaying = false;   // evita doble click mientras cobramos
+
+
         private readonly Dictionary<int, Transform> handlers = new();
         private float localBallAngleDeg;
         private bool lockUntilResume = false;
@@ -154,10 +158,12 @@ namespace CasinoMania2D.Roulette
         private void UpdatePlayButtonState()
         {
             bool hasBets = BetManager.Instance != null && BetManager.Instance.HasAnyBets();
+
+            if (hasBets && GlobalUI.Instance != null)
+                hasBets = GlobalUI.Instance.CurrentWallet >= BetManager.Instance.GetTotalStake();
+
             bool interactable = hasBets && !isSpinning && !lockUntilResume;
             if (playButton) playButton.interactable = interactable;
-            // Debug opcional:
-            // Debug.Log($"[RC] PLAY={interactable} | hasBets={hasBets} spin={isSpinning} lock={lockUntilResume}");
         }
 
         #endregion
@@ -176,11 +182,40 @@ namespace CasinoMania2D.Roulette
         // Conecta este método al botón PLAY
         public void OnPlayPressed()
         {
-            if (isSpinning || lockUntilResume) return;
+            if (isSpinning || lockUntilResume || isPaying) return;
             if (BetManager.Instance == null || !BetManager.Instance.HasAnyBets()) return;
 
-            int target = UnityEngine.Random.Range(0, 37);
-            StartRound(target);
+            int totalStake = BetManager.Instance.GetTotalStake();
+            if (totalStake <= 0) return;
+
+            // Si no hay GlobalUI, no podemos cobrar: evita arrancar
+            if (GlobalUI.Instance == null)
+            {
+                Debug.LogWarning("[Roulette] GlobalUI.Instance es null; no se puede cobrar la apuesta.");
+                return;
+            }
+
+            isPaying = true;             // bloquea mientras intentamos cobrar
+            UpdatePlayButtonState();
+
+            // Intentar cobrar como en Blackjack
+            GlobalUI.Instance.TrySpend(totalStake, success =>
+            {
+                isPaying = false;
+
+                if (!success)
+                {
+                    // feedback mínimo
+                    Debug.LogWarning("[Roulette] Saldo insuficiente para esta apuesta.");
+                    if (resultMessage) resultMessage.ShowSimple(insufficientFundsMsg, 1.5f);
+                    UpdatePlayButtonState();
+                    return;
+                }
+
+                // Cobrado con éxito → arrancar ronda
+                int target = UnityEngine.Random.Range(0, 37);
+                StartRound(target);
+            });
         }
 
         public void StartRound(int winningNumber)
@@ -277,9 +312,30 @@ namespace CasinoMania2D.Roulette
             var res = ResolveBets(targetNumber);
             if (resultMessage) resultMessage.ShowResult(targetNumber, res.totalStake, res.totalProfit, res.net, isRed, isGreen);
 
+            int returnAmount = res.totalProfit + GetStakeWinners(targetNumber);
+            if (returnAmount > 0 && GlobalUI.Instance != null)
+                GlobalUI.Instance.Grant(returnAmount, _ => {});
+
             isSpinning = false;
 
             if (introAnimator) StartCoroutine(ResumeIntroAfterDelay());
+        }
+        
+        int GetStakeWinners(int winningNumber)
+        {
+            var bm = BetManager.Instance;
+            if (bm == null) return 0;
+
+            int winnersStake = 0;
+            foreach (var kv in bm.GetAllBets())
+            {
+                var spot = kv.Key; int amount = kv.Value;
+                foreach (var n in bm.GetCoveredNumbers(spot))
+                {
+                    if (n == winningNumber) { winnersStake += amount; break; }
+                }
+            }
+            return winnersStake;
         }
 
         private IEnumerator ResumeIntroAfterDelay()
@@ -289,7 +345,7 @@ namespace CasinoMania2D.Roulette
 
             lockUntilResume = false;
             UpdatePlayButtonState();
-            NotifyLock();  
+            NotifyLock();
         }
 
         // ------ Pagos y resultado ------
