@@ -3,7 +3,6 @@
 Library/
 Temp/
 Obj/
-Build/
 Builds/
 Logs/
 UserSettings/
@@ -11,7 +10,6 @@ UserSettings/
 # Archivos temporales del sistema operativo o herramientas
 .DS_Store
 *.apk
-*.exe
 *.mp4
 *.psd
 
