@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 7c03cbf4020fa8d40984fd1bc7e6150c
+guid: 933210147e24ad044a2355b45df1b17d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1425704228462418814
-    second: hidePassword_0
-  - first:
-      213: -6429232476265263851
-    second: hidePassword_1
-  - first:
-      213: -1944883868666767092
-    second: hidePassword_2
-  - first:
-      213: -1585100113272394315
-    second: hidePassword_3
+      213: 4569833790030368313
+    second: blackjackDiscord_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,89 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hidePassword_0
+      name: blackjackDiscord_0
       rect:
         serializedVersion: 2
-        x: 274
-        y: 270
-        width: 477
-        height: 484
+        x: 0
+        y: 0
+        width: 419
+        height: 412
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7b564c217e19c310800000000000000
-      internalID: 1425704228462418814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hidePassword_1
-      rect:
-        serializedVersion: 2
-        x: 436
-        y: 243
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51dcdc95027c6c6a0800000000000000
-      internalID: -6429232476265263851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hidePassword_2
-      rect:
-        serializedVersion: 2
-        x: 572
-        y: 243
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c09dab60d626205e0800000000000000
-      internalID: -1944883868666767092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hidePassword_3
-      rect:
-        serializedVersion: 2
-        x: 579
-        y: 243
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5bda7fe58d7900ae0800000000000000
-      internalID: -1585100113272394315
+      spriteID: 93e4659be9f4b6f30800000000000000
+      internalID: 4569833790030368313
       vertices: []
       indices: 
       edges: []
@@ -213,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: abe30b583d92dac4cbe50c49ad1e8242
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hidePassword_0: 1425704228462418814
-      hidePassword_1: -6429232476265263851
-      hidePassword_2: -1944883868666767092
-      hidePassword_3: -1585100113272394315
+      blackjackDiscord_0: 4569833790030368313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
