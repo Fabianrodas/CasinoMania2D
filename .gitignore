@@ -10,7 +10,6 @@ UserSettings/
 # Archivos temporales del sistema operativo o herramientas
 .DS_Store
 *.apk
-*.mp4
 *.psd
 
 # Configuración de IDEs
